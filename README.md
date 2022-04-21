@@ -1,9 +1,7 @@
 ## Hey 👋, I'm Eduardo Wang
 <a href='https://www.linkedin.com/in/eduardo-wang/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/ebwang/ebwang/main/images/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/ebwang'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/ebwang/ebwang/main/images/twitter.svg" height='18px'/></a>
-
-
-
+<br/>
 I am a versatilist and easily adapt to different hats (SRE 🌐, Sysadmin 📱, Achitecht 🤖 ) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
@@ -18,7 +16,7 @@ I am a versatilist and easily adapt to different hats (SRE 🌐, Sysadmin 📱, 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ebwang?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/eduardo-wang/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
 
