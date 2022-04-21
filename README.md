@@ -21,9 +21,9 @@ I am a versatilist and easily adapt to different hats (SRE 🌐, Sysadmin 📱, 
 
 <br>
 <br>
+
+
 ### 🔨 Languages and Tools:
-<br>
-<br>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://github.com/ebwang/ebwang/blob/main/icons/python.png"></a>
 <a href="https://www.jenkins.io" target="_blank"> <img align="left" alt="Jenkins" height ="42px" src="https://github.com/ebwang/ebwang/blob/main/icons/jenkins.png"> </a>
 <a href="https://www.docker.com" target="_blank"><img align="left" alt="Docker" height ="42px" src="https://github.com/ebwang/ebwang/blob/main/icons/docker.png"></a>
@@ -41,17 +41,14 @@ I am a versatilist and easily adapt to different hats (SRE 🌐, Sysadmin 📱, 
 
 
 ### 📊 Github Stats
-<a href='https://github.com/ebwang/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/ebwang/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/ebwang/github-stats-transparent/output/generated/languages.svg)
+[![Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebwang)](https://github.com/ebwang/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebwang&layout=compact)](https://github.com/ebwang/github-readme-stats)
 
-</a>
+
+
 
 <br>
 
 ### 🛠️ My Projects
-<a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
+
