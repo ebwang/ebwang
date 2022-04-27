@@ -35,7 +35,7 @@ I am a versatilist and easily adapt to different hats (SRE 🌐, Sysadmin 📱, 
 <br/>
 
 ### 📊 Github Stats:
-![Github stats](https://github-readme-stats.vercel.app/api?username=ebwang&show_icons=true&count_private=true)(https://github.com/ebwang)
+[![Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebang)](https://github.com/ebwang)
 <br>
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ebwang&layout=compact)(https://github.com/ebwang)
 
