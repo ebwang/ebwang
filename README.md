@@ -2,7 +2,7 @@
 <a href='https://www.linkedin.com/in/eduardo-wang/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/ebwang/ebwang/main/images/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/ebwang'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/ebwang/ebwang/main/images/twitter.svg" height='18px'/></a>
 <br/>
-I am a versatilist and easily adapt to different hats (SRE 🌐, Sysadmin 📱, Achitecht 🤖 ) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I am a versatilist and easily adapt to different hats (SRE 🌐, Sysadmin 📱, Architect 🤖 ) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 
 <img align="right" alt="GIF" src="https://github.com/ebwang/ebwang/blob/main/images/techstack.gif" width="290px"/>
