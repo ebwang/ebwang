@@ -5,7 +5,7 @@
 I am a versatilist and easily adapt to different hats (SRE 🌐, Sysadmin 📱, Architect 🤖 ) depending on what the project requires. Always exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 
-<img align="right" alt="GIF" src="https://github.com/ebwang/ebwang/blob/main/images/techstack.gif" width="290px"/>
+<img align="right" alt="GIF" src="https://github.com/ebwang/ebwang/blob/main/images/techstack.gif" width="240px"/>
   
 ### 🧐 More About Me:
 
