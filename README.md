@@ -15,7 +15,9 @@ I am a versatilist and easily adapt to different hats (SRE 🌐, Sysadmin 📱, 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/eduardo-wang/)
 - 📚 &nbsp; When I am free, I like to travel with my family and play soccer with friends.
-<br/>
+
+
+
 ### 🔨 Languages and Tools:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://github.com/ebwang/ebwang/blob/main/icons/python.png"></a>
 <a href="https://www.jenkins.io" target="_blank"> <img align="left" alt="Jenkins" height ="42px" src="https://github.com/ebwang/ebwang/blob/main/icons/jenkins.png"> </a>
