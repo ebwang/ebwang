@@ -10,12 +10,10 @@ I am a versatilist and easily adapt to different hats (SRE 🌐, Sysadmin 📱, 
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **terraform-automation**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/ebang/sheets-database)
 - 🌱 &nbsp; I’m currently learning Python and Terraform; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ebwang?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/eduardo-wang/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com)
 - 📚 &nbsp; When I am free, I like to travel with my family and play soccer with friends.
 
 ### 🔨 Languages and Tools:
